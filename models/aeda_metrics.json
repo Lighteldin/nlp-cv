@@ -1,0 +1,12 @@
+{
+  "model_type": "Vanilla LSTM + AEDA",
+  "n_aug": 2,
+  "train_size": 5184,
+  "best_val_loss": 3.0446975468272,
+  "best_val_epoch": 4,
+  "test_loss": 3.5943081173194846,
+  "test_accuracy": 0.20304568527918782,
+  "test_macro_f1": 0.17689407442446703,
+  "test_macro_precision": 0.1842102828944934,
+  "test_macro_recall": 0.18799933350533196
+}
